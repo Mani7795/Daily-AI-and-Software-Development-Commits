@@ -22,7 +22,10 @@ Today, I completed the Haystack tutorial on creating a tool-calling agent using 
 
 ### 🧠 Key Takeaway
 
-Using Haystack’s `Agent` and tool abstraction, it’s possible to build a multi-step, LLM-powered assistant that can search the web, parse content, and return comprehensive, well-cited answers.
+Using Haystack’s `Agent` and tool abstraction, it’s possible to build a multi-step, LLM-powered assistant that can search the web, parse content, and return comprehensive, well-cited answers. 
+
+### Things to Know 
+AI 
 
 ---
 
