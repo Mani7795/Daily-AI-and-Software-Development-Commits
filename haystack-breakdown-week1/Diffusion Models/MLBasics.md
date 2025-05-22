@@ -12,5 +12,8 @@ For Beginners → Start with PyTorch (easier debugging)
   
 For Enterprise/Cloud → TensorFlow (better tooling)   
   
+### Pytorch
+__init__ initializes object state. __self__ refers to the instance 
 
-
+## LangChain 
+LangChain is a Python library that allows you to build conversational AI models. It provides a simple 
